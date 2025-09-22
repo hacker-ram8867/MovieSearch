@@ -32,7 +32,7 @@ Open the JSON file (e.g. users.json or whatever it's named in your project) in V
 Add a user object to the file in the following format:
 
 json
-Copy code
+
 [
 {
 "name": "John Doe",
